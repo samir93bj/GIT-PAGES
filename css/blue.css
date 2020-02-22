@@ -1,0 +1,22 @@
+body{
+
+	background: url('../img/cielo.jpg');  /*utilizamos los .. ya que debemos subir al fichero padre para luego entrar en la carpeta img*/
+	background-attachment: fixed;         /*Cada vez q nosotros subamos o bajemos por la pantalla la imagen estara fija de fondo*/
+}
+
+#logo{						
+	background: #1F87C4;
+}
+
+#Menu ul li:hover{
+	background: #1F87C4;
+}
+
+.button-more{
+	background: #1F87C4;
+}
+
+#Reloj{
+	
+	color: #1F87C4;
+}

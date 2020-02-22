@@ -1,0 +1,20 @@
+body{
+	background: url('../img/rojo.jpg');  /*utilizamos los .. ya que debemos subir al fichero padre para luego entrar en la carpeta img*/
+	background-attachment: fixed;         /*Cada vez q nosotros subamos o bajemos por la pantalla la imagen estara fija de fondo*/
+}
+
+#logo{						
+	background: #C43413;
+}
+
+#Menu ul li:hover{
+	background: #C43413;
+}
+
+.button-more{
+	background: #C43413;
+}
+
+#Reloj{
+	color: #C43413;
+}
